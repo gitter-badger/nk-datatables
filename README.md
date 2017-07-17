@@ -1,5 +1,7 @@
 # DataTable React Wrapper
 
+[![Join the chat at https://gitter.im/nk-datatables/Lobby](https://badges.gitter.im/nk-datatables/Lobby.svg)](https://gitter.im/nk-datatables/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Configuration
 
 ```javascript
